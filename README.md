@@ -4,12 +4,20 @@ Overview: The Research Paper Manager is an innovative application designed to si
 Key Features:
 
 User Registration and Authentication: A secure system allowing users to register and log in to manage their personal accounts.
+
 PDF Uploading: Users can easily upload research papers in PDF format, centralizing document storage.
+
 Comprehensive Search Functionality: Robust searching capabilities to find research papers by title, author, keywords, and content, enhancing accessibility to relevant information.
+
 Keyword and Semantic Search: Advanced searching options to locate specific terms and concepts within papers, supporting in-depth research exploration.
+
 Embedding Updates: Functionality to periodically update embeddings of research papers, improving search accuracy and relevance.
+
 Batch Indexing: Support for indexing multiple research papers simultaneously, significantly reducing time spent on document management.
+
 User-Friendly Interface: An intuitive UI/UX designed for a seamless experience, catering to users of all technical backgrounds.
+
+
 Technologies Used:
 
 Languages: Python, JavaScript
