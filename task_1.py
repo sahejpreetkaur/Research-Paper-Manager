@@ -336,9 +336,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-!apt-get install git
-
-!git config --global user.email "sahejpreetkaur0297@gmail.com"
-!git config --global user.name "sahejpreetkaur"
-
-!git clone https://github.com/sahejpreetkaur/Research-Paper-Manager.git
