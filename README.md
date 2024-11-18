@@ -20,9 +20,9 @@ User-Friendly Interface: An intuitive UI/UX designed for a seamless experience, 
 
 Technologies Used:
 
-Languages: Python, JavaScript
-Frameworks: Flask for the backend; React for the frontend (or other chosen frameworks)
-Database: SQLite or PostgreSQL for data management
+Languages: Python
+Frameworks: Flask for the backend
+Database: SQLite for data management
 Libraries: TensorFlow, Scikit-learn, PyPDF2, and others for processing embeddings and PDFs.
 Installation and Usage: Instructions for setting up the application locally will be provided, detailing prerequisites, environment setup, and running the application.
 
